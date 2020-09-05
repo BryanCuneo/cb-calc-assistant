@@ -1,0 +1,25 @@
+{
+
+  "manifest_version": 2,
+  "name": "CB Calc Assistant",
+  "version": "1.0",
+
+  "description": "Clanboss Calculator Assistant - Save, share, and import speedtunes.",
+
+  "icons": {
+    "48": "icons/48.png",
+    "96": "icons/96.png",
+    "128": "icons/128.png"
+  },
+
+  "content_scripts": [
+    {
+      "matches": [
+        "https://www-deadwoodjedi-com.filesusr.com/html/b2a9b4_94fe2577a3a310418ca077c243d76104.html"
+      ],
+      "all_frames": true,
+      "js": ["cb_calc_assist.js"]
+    }
+  ]
+
+}
