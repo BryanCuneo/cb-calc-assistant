@@ -3,8 +3,9 @@
   "manifest_version": 2,
   "name": "CB Calc Assistant",
   "version": "1.0",
-
+  "author": "Bryan Cuneo",
   "description": "Clanboss Calculator Assistant - Save, share, and import speedtunes.",
+  "homepage_url": "https://github.com/BryanCuneo/cb-calc-assistant",
 
   "icons": {
     "48": "icons/48.png",
