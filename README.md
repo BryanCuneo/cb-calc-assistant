@@ -10,8 +10,9 @@ This extension adds three buttons to the calculator. One to import a file, one t
 ![Added Buttons](https://i.imgur.com/HarrxpW.png)
 
 # How do I get it?
-Coming soon to the Chrome and Firefox add-on stores!
+Firefox - Get it [here](https://addons.mozilla.org/en-US/firefox/addon/clanboss-calculator-assistant/)!  
+Chrome - Get it [here](https://chrome.google.com/webstore/detail/clanboss-calculator-assis/enhmhnpongjnlidbliglfbljgnknfepo/related?hl=en&authuser=0)!
 
 # Demo
-See the extension's functionality in action using [this](https://pastebin.com/HnjmGfp9) speedtune file.
+See the extension's functionality in action using [this](https://pastebin.com/HnjmGfp9) speedtune file. Feel free to give it a try :)
 ![Demo](https://i.imgur.com/jFiu9ZF.gif)
