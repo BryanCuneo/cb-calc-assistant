@@ -16,7 +16,7 @@
   "content_scripts": [
     {
       "matches": [
-        "https://www-deadwoodjedi-com.filesusr.com/html/b2a9b4_8fb1d7cf21ac35968d7f0e3aac5bc56d.html"
+        "https://www-deadwoodjedi-com.filesusr.com/html/b2a9b4_698e84f8585fe043d87a995293167e0c.html"
       ],
       "all_frames": true,
       "js": ["cb_calc_assist.js"]
