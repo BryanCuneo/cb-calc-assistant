@@ -2,7 +2,7 @@
 
   "manifest_version": 2,
   "name": "Clanboss Calculator Assistant",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": "Bryan Cuneo",
   "description": "Save and share your clan boss speedtunes for Raid: Shadow Legends.",
   "homepage_url": "https://github.com/BryanCuneo/cb-calc-assistant",
