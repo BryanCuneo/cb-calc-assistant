@@ -1,3 +1,6 @@
+# This is a fork of the original project by Bryan Cuneo.
+It exists only as a means to share unofficial updates to the extension until Mr. Cuneo gets around to updating the official version.
+
 # Clanboss Calculator Assistant
 A browser extension for [DeadwoodJedi's Clanboss Calculator](https://www.deadwoodjedi.com/clan-boss-speed-calculator) that enables the exporting and importing of JSON files to save and share your CB speedtunes for Raid: Shadow Legends.
 
